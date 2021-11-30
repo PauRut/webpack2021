@@ -7,3 +7,6 @@ import '../scss/main.scss';
 /* place your code below */
 
 console.log('HELLO 🚀')
+
+document.cookie = 'name = maciek;'
+document.cookie = 'name = korsi;'
